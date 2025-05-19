@@ -6,10 +6,10 @@ Dabei werden Unsicherheiten im Standardmodell berücksichtigt, insbesondere durc
 
 
 Inhalt:
-    Berechnung der Energieverschiebung durch ein Yukawa-Potential
-    Nutzung des Virialtheorems zur analytischen Abschätzung
-    Numerische Bestimmung von Obergrenzen via χ²-Minimierung
-    Optimierung der SM-Parameter (R∞, Rₚ) im Fit
+    Berechnung der Energieverschiebung durch ein Yukawa-Potential,
+    Nutzung des Virialtheorems zur analytischen Abschätzung,
+    Numerische Bestimmung von Obergrenzen via χ²-Minimierung,
+    Optimierung der SM-Parameter (R∞, Rₚ) im Fit,
     Verwendung aktueller Spektraldaten (CODATA 2022)
 
 Motivation
